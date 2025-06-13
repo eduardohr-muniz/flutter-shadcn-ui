@@ -15,10 +15,7 @@
             "cwd": "playground",
             "request": "launch",
             "type": "dart",
-            "args": [
-                "-d",
-                "chrome",
-            ]
+            
         },
     ]
 }
